@@ -375,7 +375,3 @@ After this workshop, explore:
 - [Express.js Guide](https://expressjs.com/en/guide/)
 - [12-Factor App Methodology](https://12factor.net/)
 - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
-
----
-
-**Happy Shipping! 🚀**
